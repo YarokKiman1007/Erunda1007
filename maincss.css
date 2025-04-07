@@ -1,0 +1,12 @@
+body {
+background-color: grey;
+}
+h1 {
+text-align: center;
+font-family: Courier;
+font-size: 55px;
+}
+h1:hover {
+font-size: 59px;
+transition: font-size 0.7s;
+}
